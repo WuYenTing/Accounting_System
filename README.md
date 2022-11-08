@@ -1,2 +1,2 @@
 # PythonNTHU
-this is the process of making pymoney program
+This is the process of making pymoney program
