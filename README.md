@@ -32,7 +32,7 @@ This is the process of making pymoney program and basic python programing practi
   - Plug-in Functions & Recursion
   - Object-Oriented Programming
   - Iterable, Iterator, and Generator
-- Input format : description + space + number
+- Input format : category + space + description + space + number
   - expense + cost 
     - food=[snack, drink, fruit]  
     - meal=[breakfast, lunch, dinner]  

@@ -352,7 +352,7 @@ records = Records()
 while True:
     command = input('\nWhat do you want to do (add / view / delete / view categories / file / exit / chart)? ')
     if command == 'add':
-        record = input('Add an expense or income record with category descriotion amount :\n')
+        record = input('Add an expense or income record with category description amount :\n')
         records.add(record)
     elif command == 'view':
         records.view()
