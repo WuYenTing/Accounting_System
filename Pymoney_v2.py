@@ -9,7 +9,7 @@ l='{0: ^20s}'
 s='{0: ^10}'
 n='{0: ^4}'
 
-income={'salary','dividend'}
+income=['salary','dividend']
 eat=['breakfast','lunch','dinner']
 transport=['taxi','bus','train','Ubike','gas']
 
