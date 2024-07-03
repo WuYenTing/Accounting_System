@@ -6,7 +6,6 @@
   - View Categories
   - Load Records from File
   - Generate Chart
-  - 
 - Feature
   - Data Persistence
   - Error Handling
