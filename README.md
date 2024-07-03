@@ -1,5 +1,16 @@
-# PythonNTHU
-This is the process of making pymoney program and basic python programing practice.
+# Personal Financial Record Management System
+- Function
+  - Add Record
+  - View Record
+  - Delete Record
+  - View Categories
+  - Load Records from File
+  - Generate Chart
+  - 
+- Feature
+  - Data Persistence
+  - Error Handling
+  - Category Management  
 
 # Pymoney v1
 - Topic
@@ -43,3 +54,5 @@ This is the process of making pymoney program and basic python programing practi
     - salary=[full-time, part-time]  
     - bonus=[lottery, stock]
 
+# PythonNTHU
+This is the process of making pymoney program and basic python programing practice.
