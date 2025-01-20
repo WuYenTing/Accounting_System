@@ -53,5 +53,6 @@
     - salary=[full-time, part-time]  
     - bonus=[lottery, stock]
 
-# PythonNTHU
+
 This is the process of making pymoney program and basic python programing practice.
+Plan to combine the system with real database in the future.
